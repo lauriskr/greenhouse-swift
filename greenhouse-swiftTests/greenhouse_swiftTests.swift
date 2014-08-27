@@ -21,9 +21,24 @@ class greenhouse_swiftTests: XCTestCase {
         super.tearDown()
     }
     
-    func testExample() {
+    func testExampleSuccess() {
         // This is an example of a functional test case.
         XCTAssert(true, "Pass")
+    }
+
+    func testExampleFail() {
+        // This is an example of a functional test case.
+        XCTAssert(false, "Fail")
+    }
+    
+    func testExampleSuccess2() {
+        // This is an example of a functional test case.
+        XCTAssert(true, "Pass")
+    }
+    
+    func testExampleFail2() {
+        // This is an example of a functional test case.
+        XCTAssert(false, "Fail")
     }
     
     func testPerformanceExample() {
