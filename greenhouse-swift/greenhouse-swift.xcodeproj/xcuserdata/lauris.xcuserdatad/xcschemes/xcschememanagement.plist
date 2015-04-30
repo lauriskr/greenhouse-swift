@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>greenhouse-swift.xcscheme_^#shared#^_</key>
+		<key>greenhouse-swift.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>77CB83061990D4B900567FF4</key>
+		<key>772959E31AF248D600FF521F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>77CB83181990D4BA00567FF4</key>
+		<key>772959F81AF248D700FF521F</key>
 		<dict>
 			<key>primary</key>
 			<true/>

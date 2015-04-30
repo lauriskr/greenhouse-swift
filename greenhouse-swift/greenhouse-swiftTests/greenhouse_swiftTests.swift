@@ -2,8 +2,8 @@
 //  greenhouse_swiftTests.swift
 //  greenhouse-swiftTests
 //
-//  Created by lauris on 05/08/14.
-//  Copyright (c) 2014 greenhouse. All rights reserved.
+//  Created by lauris on 30/04/15.
+//  Copyright (c) 2015 greenhouse. All rights reserved.
 //
 
 import UIKit
