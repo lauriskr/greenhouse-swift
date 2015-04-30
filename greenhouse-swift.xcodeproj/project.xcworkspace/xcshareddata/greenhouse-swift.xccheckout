@@ -7,18 +7,18 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>B9B7A32A-B5A7-453D-8FA2-3AFADC3B6300</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>greenhouse-swift</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>A2125688091E1A5596961A566F399E7D26C31F73</key>
 		<string>github.com:lauriskr/greenhouse-swift.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>greenhouse-swift/greenhouse-swift.xcodeproj/project.xcworkspace</string>
+	<string>greenhouse-swift.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>A2125688091E1A5596961A566F399E7D26C31F73</key>
-		<string>../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>github.com:lauriskr/greenhouse-swift.git</string>
